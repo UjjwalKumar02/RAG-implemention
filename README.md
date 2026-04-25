@@ -1,4 +1,4 @@
-## RAG (Retrieval-Augmented Generation) Implementation
+## RAG (Retrieval-Augmented Generation)
 
 Generate LLM response based on the context from the pdf.
 
@@ -7,7 +7,7 @@ Generate LLM response based on the context from the pdf.
 #### Tech stack:
 
 - **Language :** Python
-- **LLM Model :** Gemini-3-flash
+- **LLM Model :** Gemini-2.5-flash
 - **Framework :** Langchain
 - **Vector DB :** ChromaDB
 - **Embedding Model :** Gemini-embedding-001
