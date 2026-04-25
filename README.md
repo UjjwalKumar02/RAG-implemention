@@ -1,0 +1,13 @@
+## RAG (Retrieval-Augmented Generation) Implementation
+
+Generate LLM response based on the context from the pdf.
+
+![flowDiagram](./assets/flowDiagram.png)
+
+#### Tech stack:
+
+- **Language :** Python
+- **LLM Model :** Gemini-3-flash
+- **Framework :** Langchain
+- **Vector DB :** ChromaDB
+- **Embedding Model :** Gemini-embedding-001
